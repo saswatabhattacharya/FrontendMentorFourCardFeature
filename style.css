@@ -56,7 +56,7 @@ header h1:nth-of-type(2) {
 }
 
 .features {
-  padding: 0 3.2rem;
+  padding: 3.2rem;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2.4rem;
